@@ -1,5 +1,4 @@
-# practice-repo
-This is a practice repository
+
 
 ## Level 2 Header
 - Item 1
