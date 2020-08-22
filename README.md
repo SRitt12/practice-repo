@@ -11,6 +11,6 @@
 3. Item 3
 
 
-![Darth Vader](https://s.abcnews.com/images/Entertainment/HT_darth_vader_jef_160715_4x5_992.jpg) {:height="150px" width="150px"}
+
 
 
